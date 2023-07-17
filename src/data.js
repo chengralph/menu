@@ -114,7 +114,7 @@ const point = [
     desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
   },
   {
-    id: 7,
+    id: 8,
     title: 'Alan',
     category: 'Point System',
     price: 1,
