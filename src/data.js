@@ -67,7 +67,7 @@ const point = [
   },
   {
     id: 2,
-    title: 'Silvan',
+    title: 'Sylvan',
     category: 'Point System',
     price: 4,
     img: './images/profile.jpeg',
@@ -114,7 +114,7 @@ const point = [
     desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
   },
   {
-    id: 8,
+    id: 8d,
     title: 'Alan',
     category: 'Point System',
     price: 1,
