@@ -63,7 +63,7 @@ const point = [
     category: 'Point System',
     price: 1000000000000,
     img: './images/profile.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle`,
+    desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
   },
   {
     id: 2,
@@ -71,7 +71,7 @@ const point = [
     category: 'Point System',
     price: 4,
     img: './images/profile.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle`,
+    desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
   },
   {
     id: 3,
@@ -79,7 +79,7 @@ const point = [
     category: 'Point System',
     price: 2,
     img: './images/profile.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle`,
+    desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
   },
   {
     id: 4,
@@ -87,7 +87,7 @@ const point = [
     category: 'Point System',
     price: 3,
     img: './images/profile.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle`,
+    desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
   },
   {
     id: 5,
@@ -95,7 +95,7 @@ const point = [
     category: 'Point System',
     price: 3,
     img: './images/profile.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle`,
+    desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
   },
   {
     id: 6,
@@ -103,7 +103,7 @@ const point = [
     category: 'Point System',
     price: 1,
     img: './images/profile.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle`,
+    desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
   },
   {
     id: 7,
@@ -111,7 +111,15 @@ const point = [
     category: 'Point System',
     price: 0,
     img: './images/profile.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle`,
+    desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
+  },
+  {
+    id: 7,
+    title: 'Alan',
+    category: 'Point System',
+    price: 1,
+    img: './images/profile.jpeg',
+    desc: `organ tare tare, blood, marrow, diabetes, cholesterol , back pain`,
   },
 ];
 const menu = [...items, ...point]
