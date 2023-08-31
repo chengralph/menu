@@ -3,9 +3,11 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+import TopAlert from "./TopAlert";
 
 ReactDOM.render(
   <React.StrictMode>
+    <TopAlert message="Ralph's is closed until November 1st, 2023. Sorry for the inconvenience." />
     <App />
   </React.StrictMode>,
   document.getElementById("root")
